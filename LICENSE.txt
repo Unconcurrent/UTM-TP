@@ -1,0 +1,562 @@
+Diabolical License 1.0
+
+Copyright (c) Radu Sologub
+
+By exercising the Licensed Rights (defined below), You accept 
+and agree to be bound by the terms and conditions of this 
+License, and You explicitly waive any rights to contest the terms 
+of this License in any jurisdiction. To the extent this License 
+may be interpreted as a contract, You are granted the Licensed 
+Rights in consideration of Your acceptance of these terms and 
+conditions, and the Licensor grants You such rights in 
+consideration of benefits the Licensor receives from making 
+the Licensed Material available under these terms and conditions.
+
+
+Section 1 -- Definitions.
+
+  a. Adapted Material (or Modified Material) means material subject 
+     to Copyright and Similar Rights that is derived from or based upon 
+     the Licensed Material and in which the Licensed Material 
+     is translated, altered, arranged, transformed, or otherwise 
+     modified in a manner requiring permission under the 
+     Copyright and Similar Rights held by the Licensor. For 
+     purposes of this License, where the Licensed Material 
+     is a musical work, performance, or sound recording, 
+     Adapted Material is always produced where the Licensed 
+     Material is synched in timed relation with a moving image.
+  
+  b. Adapter's License means the license You apply to 
+     Your Copyright and Similar Rights in Your contributions 
+     to Adapted Material in accordance with the terms 
+     and conditions of this License. The Adapter’s License 
+     does not affect the rights of the original Licensor
+     on the Adapted Material as specified in the original License.
+  
+  c. Copyright and Similar Rights means copyright and/or 
+     similar rights closely related to copyright including, 
+     without limitation, performance, broadcast, sound 
+     recording, and Sui Generis Database Rights, without 
+     regard to how the rights are labeled or categorized. 
+     For purposes of this License.
+  
+  d. Effective Technological Measures means those measures 
+     that, in the absence of proper authority, may not be 
+     circumvented under laws fulfilling obligations under 
+     international agreements related to copyright protection.
+  
+  e. Exceptions and Limitations means fair use, fair 
+     dealing, and/or any other exception or limitation 
+     to Copyright and Similar Rights that applies to 
+     Your use of the Licensed Material.
+      
+  f. Licensed Material means the artistic or literary work, 
+     database, or other material to which the Licensor applied 
+     this License.
+  
+  g. Licensed Rights means the rights granted to You subject 
+     to the terms and conditions of this License, which are limited 
+     to all Copyright and Similar Rights that apply to Your use 
+     of the Licensed Material and that the Licensor has 
+     authority to license.
+  
+  h. Licensor means the individual(s) or entity(ies) granting 
+     rights under this License. The Licensor retains the rights 
+     and terms specified in the original license.
+  
+  i. NonCommercial means not primarily intended for or directed 
+     towards commercial advantage or monetary compensation. For 
+     purposes of this License, NonCommercial use explicitly excludes,
+     but not limited to:
+      
+        1. Any activity that results in a financial transaction or 
+           exchange of goods and services for monetary value.
+           
+        2. Any use by or for a commercial entity, even if the entity 
+           itself does not directly profit from the use.
+           
+        3. Any use that contributes to commercial activities, including 
+           but not limited to marketing, advertising, or any other form 
+           of promotion intended to drive commercial sales or revenue.
+           
+        4. The exchange of the Licensed Material for other material 
+           subject to Copyright and Similar Rights by digital file-sharing 
+           or similar means is NonCommercial only provided there is no payment 
+           of monetary compensation in connection with the exchange and the 
+           exchange does not indirectly support any commercial activities.  
+           
+  j. Share means to provide material to the public by any means 
+     or process that requires permission under the Licensed Rights, 
+     such as reproduction, public display, public performance, 
+     distribution, dissemination, communication, or importation, 
+     and to make material available to the public including in 
+     ways that members of the public may access the material 
+     from a place and at a time individually chosen by them.
+  
+  k. Sui Generis Database Rights means rights other than 
+     copyright resulting from Directive 96/9/EC of the European 
+     Parliament and of the Council of 11 March 1996 on the 
+     legal protection of databases, as amended and/or 
+     succeeded, as well as other essentially equivalent 
+     rights anywhere in the world.
+  
+  l. You means the individual or entity exercising the 
+     Licensed Rights under this License. Your has a corresponding meaning.
+     
+  m. Reciprocal Grant Back means the obligation for the licensee to 
+     grant back any modifications or improvements made to the 
+     Licensed Material to the Licensor.
+     
+  n. Diabolical Material refers to any Licensed Material that 
+     has been altered to include malicious code, malware, 
+     spyware, or any other harmful content.
+       
+
+Section 2 -- Scope.
+
+  a. License grant.
+
+       1. Subject to the terms and conditions of this License,
+          the Licensor hereby grants You a worldwide, royalty-free,
+          non-sublicensable, non-exclusive, revocable license to
+          exercise the Rights in the Material to:
+
+            a. reproduce and Share the Material, in whole or
+               in part, for NonCommercial purposes only; and
+
+            b. produce, reproduce, and Share Modified Material for
+               NonCommercial purposes only; and
+               
+            c. use patented Material for NonCommercial purposes only.
+
+       2. Exceptions and Limitations. For the avoidance of doubt, where
+          Exceptions and Limitations apply to Your use, this License
+          does apply to the maximum extend permitted by the law.
+
+       3. Term. The term of this License is specified in Section 6(a).
+
+       4. Media and formats; technical modifications allowed. 
+          The Licensor authorizes You to exercise the Licensed 
+          Rights in all media and formats whether now known or 
+          hereafter created, and to make technical modifications 
+          only if strictly necessary to ensure compatibility 
+          with other media, formats, and technologies. Simply 
+          making modifications authorized by this Section 2(a)(4) 
+          does not produce Adapted Material as defined in Section 1(a).
+          For purposes of this License, technical modifications 
+          are strictly necessary if they meet any of the
+          following conditions:          
+          
+            a. The modification is required to convert the Licensed Material 
+               to a different format or encoding to enable playback, display, 
+               or use on a specific device or software platform, provided 
+               that such modification does not alter the substantive content 
+               of the Licensed Material.
+
+            b. The modification is required to comply with the accessibility 
+               standards for individuals with disabilities, such as converting 
+               text to speech, adding subtitles or closed captions, or other 
+               similar changes that enhance accessibility.             
+          
+       5. Downstream recipients.
+
+            a. Offer from the Licensor -- Material. Every
+               recipient of the Material automatically
+               receives an offer from the Licensor to exercise the
+               Rights under the terms and conditions of this
+               License.
+
+            b. Additional offer from the Licensor -- Modified Material.
+               Every recipient of Modified Material from You
+               automatically receives an offer from the Licensor to
+               exercise the Rights in the Modified Material
+               under the conditions of the Adapter's License You apply.
+
+            c. No additional downstream restrictions, except Reciprocal 
+               Grant Back. You may not offer or impose any additional or 
+               different terms or conditions on, or apply any Effective 
+               Technological Measures to, the Material if doing so 
+               restricts exercise of the Rights by any recipient of the Material.
+
+       6. No endorsement. Nothing in this License constitutes or
+          may be construed as permission to assert or imply that You
+          are, or that Your use of the Material is, connected
+          with, or sponsored, endorsed, or granted official status by,
+          the Licensor or others designated to receive attribution as
+          provided in Section 3(a)(1)(a)(i).
+
+  b. Other rights.
+
+       1. If You institute patent litigation against any entity 
+          (including a cross-claim or counterclaim in a lawsuit) 
+          alleging that the Licensed Material constitutes direct 
+          or contributory patent infringement, then any patent 
+          licenses granted to You under this License for that 
+          Licensed Material shall terminate as of the date such 
+          litigation is filed.
+          
+       2. The Licensor reserves the exclusive right to use the Material 
+          for commercial purposes and to collect royalties from such 
+          use. All other uses by You or any downstream recipients are 
+          restricted to NonCommercial purposes only, and no rights are 
+          granted for commercial exploitation of the Material by anyone 
+          other than the Licensor.
+          
+Section 3 -- License Conditions.
+
+Your exercise of the Licensed Rights is expressly made subject to the
+following conditions.
+
+  a. Attribution.
+
+       1. If You Share the Licensed Material (including in modified
+          form), You must:
+
+            a. retain the following if it is supplied by the Licensor
+               with the Licensed Material:
+
+                 i. identification of the creator(s) of the Licensed
+                    Material and any others designated to receive
+                    attribution, in any reasonable manner requested by
+                    the Licensor, including by pseudonym, if
+                    designated, specific size, color, and placement 
+                    requirements;
+
+                ii. a copyright notice;
+
+               iii. a notice that refers to this License;
+
+                iv. a notice that refers to the disclaimer of
+                    warranties;
+
+                 v. a URI or hyperlink to the Licensed Material to the
+                    extent reasonably practicable;
+
+            b. indicate if You modified the Licensed Material and
+               retain an indication of any previous modifications; and
+
+            c. indicate the Licensed Material is licensed under this
+               License, and include the text of, or the URI or
+               hyperlink to, this License.
+
+       2. You may satisfy the conditions in Section 3(a)(1) in any
+          reasonable manner based on the medium, means, and context in
+          which You Share the Licensed Material. For example, it may be
+          reasonable to satisfy the conditions by providing a URI or
+          hyperlink to a resource that includes the required
+          information.
+          
+       3. If requested by the Licensor, You must remove any of the
+          information required by Section 3(a)(1)(a) to the extent
+          reasonably practicable.
+
+  b. Share.
+
+     In addition to the conditions in Section 3(a), if You Share
+     Adapted Material You produce, the following conditions also apply.
+
+       1. The Adapter's License You apply must be identical to this 
+          License in all terms and conditions.
+
+       2. You must include the text of, or the URI or hyperlink to, 
+          the Adapter's License You apply. You may satisfy this
+          condition in any reasonable manner based on the medium, 
+          means, and context in which You Share Adapted Material.
+
+       3. You may not offer or impose any additional or different 
+          terms or conditions on, or apply any Effective
+          Technological Measures to, Adapted Material that restrict 
+          exercise of the rights granted under the Adapter's
+          License You apply
+          
+       4. Reciprocal Grant Back. By sharing Adapted Material, You agree 
+          to grant the Licensor an irrevocable, royalty-free, worldwide, 
+          non-exclusive, sublicensable, and transferable license to use,
+          reproduce, modify, create derivative works of, display, perform, 
+          and distribute Your contributions to the Adapted Material under 
+          any terms deemed appropriate by the Licensor. This grant back 
+          ensures that the Licensor may also:
+
+             i. License the Adapted Material, including Your contributions, under 
+                different terms, including proprietary terms, at the Licensor’s 
+                sole discretion.
+        
+            ii. Use the Adapted Material, including Your contributions, in any 
+                manner and for any purpose, including commercial purposes, 
+                without restriction.
+        
+           iii. Sub-license the rights granted herein to third parties, allowing 
+                them to exercise the rights granted to the Licensor.
+        
+            iv. Assign or transfer the granted rights to any third party, thereby 
+                allowing the assignee or transferee to exercise all the rights as 
+                if they were originally granted to them.
+        
+             v. Engage in any activity that would otherwise infringe the rights 
+                granted to You under this License, thereby maximizing the utility 
+                and dissemination of the Adapted Material.
+                
+Section 4 -- Sui Generis Database Rights.
+
+  Where the License includes Sui Generis Database Rights that apply to
+  Your use of the Licensed Material:
+  
+    a. for clarification, this License grants You the right to extract,
+       reuse, reproduce, and Share all or a substantial portion of the
+       contents of the database for NonCommercial purposes only;
+  
+    b. if You include all or a substantial portion of the database
+       contents in a database in which You have Sui Generis Database
+       Rights, then the database in which You have Sui Generis Database
+       Rights (but not its individual contents) is Adapted Material,
+       including for the purposes defined herein;
+  
+    c. You must comply with the conditions herein if You Share all or a
+       substantial portion of the contents of the database.
+  
+  For clarification, this Section 4 supplements and does not replace Your
+  obligations under this License where the Licensed Rights include other
+  Copyright and Similar Rights.
+
+Section 5 -- Disclaimer of Warranties and Limitation of Liability.
+
+  a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
+     EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
+     AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF
+     ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS,
+     IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION,
+     WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR
+     PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS,
+     ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT
+     KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT
+     ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.
+
+  b. TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE
+     TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,
+     NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT,
+     INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES,
+     COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS LICENSE OR
+     USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN
+     ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR
+     DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR
+     IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.
+
+  c. The disclaimer of warranties and limitation of liability provided
+     above shall be interpreted in a manner that, to the extent
+     possible, most closely approximates an absolute disclaimer and
+     waiver of all liability, including, but not limiting to
+     liabilities arising under any legal theory, such as tort, 
+     contract, or any other legal grounds.
+
+
+Section 6 -- Term and Termination.
+
+  a. This License applies for the term of the Copyright and
+     Similar Rights licensed here. However, the Licensor 
+     reserves the right to revoke this License, effectively 
+     revoking any rights previously granted to You under 
+     this License at any time, for any reason, including,
+     but not limited to:
+     
+        i. You fail to comply with this License.
+
+       ii. You engage in activities that infringe upon the 
+           intellectual property rights of the Licensor or third parties.
+
+      iii. You utilize the Licensed Material in a manner that 
+           violates any applicable laws or regulations.
+           
+       iv. You have failed to comply with the attribution.
+       
+        v. You engage in the use of any Diabolical Material 
+           or practices deemed by the Licensor to be harmful, 
+           malicious, or otherwise malevolent.
+          
+  b. Where Your right to use the Licensed Material has terminated under
+     Section 6(a), the Licensor may notify You of the breach 
+     and may provide a cure period.
+
+  c. For the avoidance of doubt, the Licensor may also offer the
+     Licensed Material under separate terms or conditions or stop
+     distributing the Licensed Material at any time; however, doing so
+     will not terminate this License without expressly providing written 
+     notice of termination to the Licensee.
+
+  d. Sections 1 and 5 to 13 survive termination of this License.
+
+  e. Upon such termination, You must immediately cease all use and 
+     distribution of the Licensed Material. You must also certify in 
+     writing to the Licensor that you have complied with this requirement.
+     
+  f. The Licensor may have to seek remedies for Your violations of this License.
+  
+  g. If unspecified, a cure period of exactly 666 hours is provided for you 
+     to remedy the breach after notification.
+
+  h. The Licensor herein reserves the irrevocable prerogative, exercisable at its
+     sole and absolute discretion, to terminate, abrogate, or otherwise render null
+     and void this License with respect to any particular cohort or classification
+     of entities, irrespective of their commercial or non-commercial character, at
+     any juncture and predicated upon any rationale deemed appropriate by the
+     Licensor, without the obligation to provide prior notice or justification
+     thereof.
+     
+
+Section 7 -- Other Terms and Conditions.
+
+  a. The Licensor shall not be bound by any additional or different
+     terms or conditions communicated by You unless expressly agreed.
+
+  b. Any arrangements, understandings, or agreements regarding the
+     Licensed Material not stated herein are separate from and
+     independent of the terms and conditions of this License.
+     
+  c. The terms of this License are negotiable, but cannot be 
+     altered or amended by You. Any attempt to do so will result 
+     in immediate termination of this License.
+
+Section 8 -- Interpretation.
+     
+  a. Nothing in this License constitutes or may be interpreted
+     as a limitation upon, or waiver of, any immunities
+     that apply to the Licensor, including from the legal
+     processes of any jurisdiction or authority, sovereign 
+     immunity and any other legal protections.
+
+  b. This License, and any uncertainties or ambiguities therein, 
+     shall not be construed against the Licensor under any 
+     principle of construction or otherwise.     
+     
+  c. In the event of any ambiguity, this License shall be 
+     deemed to have been reviewed by all parties and shall 
+     be interpreted in favor of the Licensor.
+
+Section 9 -- Governing Law and Jurisdiction.
+
+  a. This License and any disputes arising out of or related to it 
+     shall be governed by and construed in accordance with the laws 
+     of the Republic of Moldova, without regard to its conflict of 
+     law principles.
+  
+  b. Any legal action or proceeding arising under this License shall 
+     be brought exclusively in the courts located in the Republic of 
+     Moldova, and the parties irrevocably consent to the personal 
+     jurisdiction and venue therein.
+     
+  c. If a party is unable to participate in a legal proceeding in 
+     the jurisdiction of the Republic of Moldova, then such party 
+     will be deemed unable to comply with the terms of this License, 
+     resulting in the automatic termination of their license.
+     
+Section 10 -- Severability.
+
+  a. If any provision of this License is determined to be invalid, 
+     illegal, or unenforceable by a court of competent jurisdiction, 
+     the remaining provisions of this License shall continue in full 
+     force and effect, provided that the essential terms and conditions 
+     of this License for each party remain valid, binding, and enforceable.
+  
+  b. The Licensor will replace any invalid, illegal, or unenforceable 
+     provision with a valid, legal, and enforceable provision that 
+     achieves, to the greatest extent possible, the original intent 
+     and economic effect of the invalid, illegal, or unenforceable provision.
+
+Section 11 -- Commercial Use.
+
+  a. The Licensor may grant exceptions to the general prohibition on Commercial 
+     Use at their sole discretion. Such permission must be documented in a 
+     separate, written agreement detailing the terms and conditions of 
+     the permitted use.
+  
+  b. The granted exception may override the Licensor's rights of this License,
+     but will be governed by their own terms and conditions.
+  
+  c. All requests for Commercial Use must be directed to the Licensor 
+     and must include:
+  
+    a. A detailed description of the intended Commercial Use;
+    
+    b. Any proposed compensation or royalty arrangements;
+    
+    c. Evidence of your ability to comply with all applicable laws and 
+       regulations related to the intended use.
+
+  d. Obligation to Pay Fees.
+  
+      1. If the Licensor grants permission for Commercial Use or any 
+         other use involving fees, You are obligated to pay all applicable 
+         fees as outlined in the separate agreement.
+      
+      2. Fees must be paid in the currency specified by the Licensor and 
+         within the timeframe stipulated in the agreement.
+      
+  e. Taxes.
+  
+      1. You are responsible for the payment of all applicable taxes, duties, 
+         or levies imposed by any governmental authority in connection with 
+         the Licensed Material (or Adapted Material) and its use.
+      
+      2. The Licensor shall have the right to include in the fees any applicable 
+         sales, use, value-added, or other taxes that are required to be collected.
+      
+      3. If the Licensor is obligated to pay any such taxes or collect and remit 
+         them to the relevant taxing authority, You agree to reimburse the Licensor
+         promptly upon receiving an invoice for those amounts.
+
+Section 12 -- Data Collection and Privacy.
+
+  a. Collection and Use of Data.
+  
+      1. By using the Licensed Material, You agree that the Licensor may collect and 
+         use technical data and related information, including but not limited to 
+         technical information about your device, system, and application software, 
+         and peripherals. This information is gathered periodically to facilitate 
+         the provision of software updates, product support, and other services 
+         related to the Licensed Material.
+      
+      2. The Licensor agrees to use this data solely to improve its products or to 
+         provide services or technologies to You.
+      
+  b. Privacy and Personal Data.
+  
+      1. The Licensor respects Your privacy and is committed to protecting any 
+         personal information You may provide while using the Licensed Material.
+      
+      2. The collection, use, and disclosure of any personal data will comply 
+         with applicable data protection laws and regulations.
+      
+      3. You have the right to access, correct, or request the deletion of 
+         Your personal data collected by the Licensor.
+                     
+      4. If the Licensor is required by law or legal process to disclose Your 
+         personal data, the Licensor will, if permitted, provide You with notice 
+         of such request to allow You to seek a protective order or other 
+         appropriate remedy.
+      
+  c. Third-Party Services.
+  
+      1. The Licensed Material will NOT include or incorporate third-party services.
+
+Section 13 -- Standard Provisions.
+                              
+  a. Force Majeure.
+  
+      1. You will be liable for any failure or delay (more than 7 days) 
+         in performing its obligations under this License if such failure 
+         or delay is due to causes beyond its reasonable control, 
+         including but not limited to acts of God, war, terrorism, 
+         strikes, supply shortages, or natural disasters.
+      
+  b. Relationship of the Parties.
+  
+      1. Nothing in this License will be construed to create a partnership, 
+         joint venture, or agency relationship between the parties. Neither 
+         party has the authority to bind the other or to incur any obligation on its behalf.
+         
+  c. Automatic Replacement of Terms
+      
+      1. In the event that a new version of this License is officially published 
+         by the Licensor, the terms of this new version will automatically 
+         replace and supersede the terms of this agreement, effective upon the 
+         date of publication. The Licensee agrees to comply with the updated 
+         terms from the date of publication.

@@ -1,0 +1,24 @@
+ Hello, World!
+Variables and Types
+Lists
+Basic Operators
+String Formatting
+Basic String Operations
+Conditions
+Loops
+Functions
+Classes and Objects
+Dictionaries
+Modules and Packages
+Input and Output
+Generators
+List Comprehensions
+Lambda functions
+Multiple Function Arguments
+Regular Expressions
+Exception Handling
+Sets
+Serialization
+Partial functions
+
+de la https://www.learnpython.org/
