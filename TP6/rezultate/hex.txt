@@ -1,0 +1,8 @@
+$ .venv/bin/python arsenal/forensics/decode.py 48656c6c6f --fisa rezultate/fisa_hex.json
+{
+  "strat": "hex",
+  "rezultat": "Hello",
+  "straturi": [
+    "hex"
+  ]
+}

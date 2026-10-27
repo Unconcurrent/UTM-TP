@@ -1,0 +1,10 @@
+Dimensiuni: (640, 480)
+Format: PNG
+Canale diferite: 88
+Diferența maximă pe canal: 1
+Biți superiori păstrați: da
+Mesaj extras identic: da
+probe/foto.jpg: jpeg
+probe/ascuns.png: png
+gasit.zip: zip/docx
+sarcina.docx: zip/docx

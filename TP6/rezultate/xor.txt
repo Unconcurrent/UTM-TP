@@ -1,0 +1,9 @@
+$ .venv/bin/python arsenal/forensics/decode.py probe/xor.bin --fisier --fisa rezultate/fisa_xor.json
+{
+  "strat": "xor",
+  "rezultat": "Un singur octet tine tot secretul... gaseste-l! FLAG{xor_un_octet}",
+  "straturi": [
+    "xor"
+  ],
+  "cheie": 128
+}

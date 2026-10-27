@@ -1,0 +1,23 @@
+$ .venv/bin/python arsenal/forensics/decode.py probe/hashuri.txt --fisier --hashuri --fisa rezultate/fisa_hashuri.json
+[
+  {
+    "strat": "md5",
+    "rezultat": "password"
+  },
+  {
+    "strat": "md5",
+    "rezultat": "dragon"
+  },
+  {
+    "strat": "md5",
+    "rezultat": "qwerty"
+  },
+  {
+    "strat": "md5",
+    "rezultat": "letmein"
+  },
+  {
+    "strat": "md5",
+    "rezultat": "monkey"
+  }
+]

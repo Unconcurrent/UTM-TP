@@ -1,0 +1,22 @@
+[
+  {
+    "strat": "md5",
+    "rezultat": "password"
+  },
+  {
+    "strat": "md5",
+    "rezultat": "dragon"
+  },
+  {
+    "strat": "md5",
+    "rezultat": "qwerty"
+  },
+  {
+    "strat": "md5",
+    "rezultat": "letmein"
+  },
+  {
+    "strat": "md5",
+    "rezultat": "monkey"
+  }
+]

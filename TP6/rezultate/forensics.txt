@@ -1,0 +1,20 @@
+$ .venv/bin/python forensics.py
+B1, foto.jpg: jpeg
+B1, ascuns.png: png
+B2, șiruri imprimabile din ascuns.png:
+IHDR
+IDATx
+IEND
+N~M]
+secret.txtFLAG{ascuns_prin_carving}
+N~M]
+secret.txtPK
+B3, metadate EXIF:
+Model = iPhone 13
+DateTime = 2026:09:14 10:30:00
+Make = Apple
+Latitudine: 47.01666667
+Longitudine: 28.85750000
+B4, arhiva extrasă de la octetul 782
+Fișier extras: secret.txt
+FLAG{ascuns_prin_carving}

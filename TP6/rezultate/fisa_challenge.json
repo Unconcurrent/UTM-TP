@@ -1,0 +1,10 @@
+{
+  "strat": "xor",
+  "rezultat": "FLAG{lant_complet_despicat}",
+  "straturi": [
+    "base64",
+    "xor"
+  ],
+  "cheie": 128,
+  "verificare_md5": true
+}

@@ -1,0 +1,8 @@
+$ .venv/bin/python arsenal/forensics/decode.py %2Fetc --fisa rezultate/fisa_url.json
+{
+  "strat": "url",
+  "rezultat": "/etc",
+  "straturi": [
+    "url"
+  ]
+}

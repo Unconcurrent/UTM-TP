@@ -1,0 +1,8 @@
+$ .venv/bin/python arsenal/forensics/decode.py U2FsdXQ= --fisa rezultate/fisa_base64.json
+{
+  "strat": "base64",
+  "rezultat": "Salut",
+  "straturi": [
+    "base64"
+  ]
+}

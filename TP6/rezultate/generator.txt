@@ -1,0 +1,9 @@
+  scris: mesaj.txt
+  scris: xor.bin
+  scris: hashuri.txt
+  scris: wordlist.txt
+  scris: foto.jpg
+  adaugat ZIP la coada: ascuns.png
+  scris: challenge.bin
+  scris: challenge_hint.txt
+Gata. Tintele de laborator sunt in: /wrk/academy/UTM/labs/TP6/probe

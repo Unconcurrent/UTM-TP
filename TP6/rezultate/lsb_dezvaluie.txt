@@ -1,0 +1,2 @@
+$ .venv/bin/python stego.py dezvaluie stego.png
+Mesaj dezvăluit: FLAG{ascuns_in_pixeli}

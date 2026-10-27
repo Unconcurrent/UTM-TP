@@ -1,0 +1,43 @@
+============================= test session starts ==============================
+platform linux -- Python 3.14.7, pytest-9.1.1, pluggy-1.6.0 -- /wrk/academy/UTM/labs/TP6/.venv/bin/python
+cachedir: .pytest_cache
+rootdir: /wrk/academy/UTM/labs/TP6
+plugins: platformdirs-4.12.4
+collecting ... collected 34 items
+
+teste/test_decode.py::test_base64 PASSED                                 [  2%]
+teste/test_decode.py::test_recunoastere[%2Fetc-url] PASSED               [  5%]
+teste/test_decode.py::test_recunoastere[48656c6c6f-hex] PASSED           [  8%]
+teste/test_decode.py::test_recunoastere[U2FsdXQ=-base64] PASSED          [ 11%]
+teste/test_decode.py::test_recunoastere[FLAG{gata}-necunoscut] PASSED    [ 14%]
+teste/test_decode.py::test_hex_si_url PASSED                             [ 17%]
+teste/test_decode.py::test_url_se_opreste_la_calea_citibila PASSED       [ 20%]
+teste/test_decode.py::test_base64_invalid PASSED                         [ 23%]
+teste/test_decode.py::test_straturi_din_proba PASSED                     [ 26%]
+teste/test_decode.py::test_limita_accepta_exact_opt_straturi PASSED      [ 29%]
+teste/test_decode.py::test_limita_opreste_straturile_suplimentare PASSED [ 32%]
+teste/test_decode.py::test_xor_din_proba PASSED                          [ 35%]
+teste/test_decode.py::test_xor_gol PASSED                                [ 38%]
+teste/test_decode.py::test_dictionar_si_identificare[md5] PASSED         [ 41%]
+teste/test_decode.py::test_dictionar_si_identificare[sha1] PASSED        [ 44%]
+teste/test_decode.py::test_dictionar_si_identificare[sha256] PASSED      [ 47%]
+teste/test_decode.py::test_dictionar_fara_parola PASSED                  [ 50%]
+teste/test_decode.py::test_hash_invalid PASSED                           [ 52%]
+teste/test_decode.py::test_challenge PASSED                              [ 55%]
+teste/test_forensics.py::test_semnatura_independenta_de_extensie[document.bin-%PDF-1.7-pdf] PASSED [ 58%]
+teste/test_forensics.py::test_semnatura_independenta_de_extensie[poza.txt-\x89PNG\r\n\x1a\n-png] PASSED [ 61%]
+teste/test_forensics.py::test_semnatura_independenta_de_extensie[imagine.dat-\xff\xd8\xff\xe0-jpeg] PASSED [ 64%]
+teste/test_forensics.py::test_semnatura_independenta_de_extensie[arhiva.jpg-PK\x03\x04-zip/docx] PASSED [ 67%]
+teste/test_forensics.py::test_strings_si_carving PASSED                  [ 70%]
+teste/test_forensics.py::test_carving_fara_zip PASSED                    [ 73%]
+teste/test_forensics.py::test_exif_si_gps PASSED                         [ 76%]
+teste/test_forensics.py::test_gps_sud_si_vest PASSED                     [ 79%]
+teste/test_forensics.py::test_imagine_fara_exif PASSED                   [ 82%]
+teste/test_stego.py::test_roundtrip_si_doar_lsb[FLAG{ascuns_in_pixeli}] PASSED [ 85%]
+teste/test_stego.py::test_roundtrip_si_doar_lsb[Salut, Chi\u0219in\u0103u!] PASSED [ 88%]
+teste/test_stego.py::test_roundtrip_si_doar_lsb[] PASSED                 [ 91%]
+teste/test_stego.py::test_capacitate_include_terminatorul PASSED         [ 94%]
+teste/test_stego.py::test_jpeg_nu_este_iesire_valida PASSED              [ 97%]
+teste/test_stego.py::test_mesaj_fara_terminator PASSED                   [100%]
+
+============================== 34 passed in 0.16s ==============================
